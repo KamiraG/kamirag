@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kamira, a writer and student of <a href="https://linkedin.com/in/kamiragayle">Information Technology</a>☺</h1>
+<h1>Hi, I'm Kamira, a new student of <a href="https://linkedin.com/in/kamiragayle">Information Technology</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
