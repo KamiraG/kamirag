@@ -6,7 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/kamirag/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kamirag/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kamirag/ticket-lifecycle)
-
+- <b>Microsoft Azure</b>
+    - [Azure Virtual Machine and Remote Network Conncection](https://github.com/kamirag/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
